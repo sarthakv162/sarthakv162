@@ -1,4 +1,4 @@
-# 💫 About Me:
+# A small Introduction:
 Hey! I’m Sarthak Verma <br>A AI/ML enthusiast specializing deep learning ,I design and implement data‑driven models often using PyTorch and Tensorflow to tackle and understand tasks, build end‑to‑end pipelines from pretraining to fine‑tuning, and evaluate representation quality.<br>My passion lies in experimenting with novel frameworks optimizing model performance, and contributing to open‑source AI projects that push the boundaries .<br>
 
 
