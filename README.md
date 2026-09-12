@@ -7,6 +7,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sarthak_162)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-verma-6002001b4)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sarthakvzz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthak16.verma2005@gmail.com)
 
 </div>
@@ -15,7 +16,7 @@
 
 ### 🧠 About Me
 
-I'm an AI/ML enthusiast focused on **Deep Learning**. I design and train models in **PyTorch** and **TensorFlow**, build end‑to‑end pipelines from pretraining through fine‑tuning, and evaluate representation quality. I like digging into novel training frameworks, squeezing out extra model performance, and contributing back to open‑source AI projects.
+I'm an AI/ML enthusiast focused on **Deep Learning** — I design and train models in **PyTorch** and **TensorFlow**, build end‑to‑end pipelines from pretraining through fine‑tuning, and evaluate representation quality. I like digging into novel training frameworks, squeezing out extra model performance, and contributing back to open‑source AI projects.
 
 ```text
 class Sarthak:
@@ -157,12 +158,10 @@ Also: ETL & data pipelines · data warehousing concepts
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarthakv162&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakv162&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sarthakv162&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarthakv162&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=sarthakv162&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakv162&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
 
 </div>
 
@@ -177,7 +176,7 @@ Also: ETL & data pipelines · data warehousing concepts
 
 <div align="center">
 
-📫 **Reach out** — [LinkedIn](https://linkedin.com/in/sarthak-verma-6002001b4) · [Instagram](https://instagram.com/sarthak_162) · [Email](mailto:sarthak16.verma2005@gmail.com)
+📫 **Reach out** — [LinkedIn](https://linkedin.com/in/sarthak-verma-6002001b4) · [Instagram](https://instagram.com/sarthak_162) · [LeetCode](https://leetcode.com/u/Sarthakvzz/) · [Email](mailto:sarthak16.verma2005@gmail.com)
 
 <img src="https://visitcount.itsvg.in/api?id=sarthakv162&icon=0&color=6" alt="Profile views"/>
 
