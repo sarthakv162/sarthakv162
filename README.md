@@ -16,7 +16,7 @@
 
 ### 🧠 About Me
 
-I'm an AI/ML enthusiast focused on **Deep Learning** — I design and train models in **PyTorch** and **TensorFlow**, build end‑to‑end pipelines from pretraining through fine‑tuning, and evaluate representation quality. I like digging into novel training frameworks, squeezing out extra model performance, and contributing back to open‑source AI projects.
+I'm an AI/ML enthusiast focused on **Deep Learning**. I design and train models in **PyTorch** and **TensorFlow**, build end‑to‑end pipelines from pretraining through fine‑tuning, and evaluate representation quality. I like digging into novel training frameworks, squeezing out extra model performance, and contributing back to open‑source AI projects.
 
 ```text
 class Sarthak:
@@ -33,9 +33,9 @@ class Sarthak:
 ### 🔭 Currently
 
 - 🧪 Experimenting with fine-tuning and evaluating representation quality of deep learning models
-- ⚙️ Building end-to-end ML pipelines — data → pretraining → fine-tuning → evaluation
+- ⚙️ Building end-to-end ML pipelines, data → pretraining → fine-tuning → evaluation
 - 📚 Reading up on optimization techniques and newer training frameworks
-- 🤝 Looking to contribute to open-source AI/ML projects — feel free to reach out
+- 🤝 Looking to contribute to open-source AI/ML projects, feel free to reach out
 
 <!--
 📝 Fill these in with real, specific work — recruiters and collaborators trust
@@ -48,38 +48,37 @@ concrete proof (repo links, metrics, dates) far more than generic claims.
 <tr>
 <td width="50%">
 
-**[Nagrik](https://github.com/sarthakv162/repo-link)** 🏆 Winner, Delhi AI Grind 2026
-GraphRAG-powered AI civic platform for smart complaint routing, inter-department coordination, and predictive escalation via WhatsApp — beat 1600+ participants.
+**[Nagrik](https://github.com/sarthakv162/Nagrik)** 🏆 Winner, Delhi AI Grind 2026
+GraphRAG-powered AI civic platform for smart complaint routing, inter-department coordination, and predictive escalation via WhatsApp, beat 1600+ participants.
 `GraphRAG` `LangChain` `Python`
 
 </td>
 <td width="50%">
 
-**[FinAgent](https://github.com/sarthakv162/repo-link)** 🥉 3rd, IIT Bombay Techfest '25
-A DOM-Vision agent enabling secure, fail-safe financial automation.
-`Computer Vision` `LangGraph` `Python`
+**[Decibel](https://github.com/sarthakv162/Decibel-SIH)** 🥇 National Grand Finalist, Smart India Hackathon 2025
+Audio Language Model (ALM) that can "Listen, Think, and Understand" speech and non-speech together, selected from 400+ teams.
+`Audio ML` `Deep Learning` `PyTorch`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[Railway Track Tampering Detection](https://github.com/sarthakv162/repo-link)** 🥉 3rd, Hack4Delhi'26
-AI-driven detection system for railway track tampering — placed among 500+ teams.
+**[Railway Track Tampering Detection](https://github.com/sarthakv162/Railway_Tampering_System)** 🥉 3rd, Hack4Delhi'26
+AI-driven detection system for railway track tampering, placed among 500+ teams.
 `Computer Vision` `PyTorch`
 
 </td>
 <td width="50%">
+    
+**[FinAgent](https://github.com/sarthakv162/Finagent-IITB)** 🥉 3rd, IIT Bombay Techfest '25
+A DOM-Vision agent enabling secure, fail-safe financial automation.
+`Computer Vision` `LangGraph` `Python`
 
-**[AI Text-to-Video Platform](https://github.com/sarthakv162/repo-link)** 🥉 3rd, Synaptix Hackathon (DTU)
-Text-to-video generation platform built with Gemini and Stable Diffusion.
-`Generative AI` `Stable Diffusion` `Gemini`
 
 </td>
 </tr>
 </table>
-
-> Also: Grand Finalist at **Smart India Hackathon 2025** (Audio Language Model — 400+ teams) and **2nd place at HackDays for AI (MLH) '25** for an AI-driven OCR-integrated assignment evaluation pipeline.
 
 ### 🛠️ Tech Stack
 
@@ -145,13 +144,13 @@ Also: ETL & data pipelines · data warehousing concepts
 
 ### 🏆 Achievements
 
-- 🥇 National Grand Finalist, **Smart India Hackathon 2025** — Audio Language Model, 400+ teams
-- 🏆 Winner, **Delhi AI Grind College Edition 2026** — Nagrik, 1600+ participants
-- 🥉 3rd place, **Hack4Delhi'26 National Hackathon** — 500+ teams
-- 🥉 3rd place, **IIT Bombay Techfest '25** — FinAgent
+- 🥇 National Grand Finalist, **Smart India Hackathon 2025**, Audio Language Model, 400+ teams
+- 🏆 Winner, **Delhi AI Grind College Edition 2026**, Nagrik, 1600+ participants
+- 🥉 3rd place, **Hack4Delhi'26 National Hackathon**,  500+ teams
+- 🥉 3rd place, **IIT Bombay Techfest '25**,  FinAgent
 - 🥈 2nd place, **HackDays for AI (MLH) '25**
 - 🥉 3rd place, **Synaptix Hackathon (DTU)**
-- 🧩 500+ problems solved on [LeetCode](https://leetcode.com/)
+- 🧩 500+ problems solved on [LeetCode](https://leetcode.com/u/Sarthakvzz/)
 - 🎓 Stanford's Machine Learning Specialization & Deep Learning Specialization, Kaggle ML certified
 
 ### 📊 GitHub Stats
@@ -167,17 +166,14 @@ Also: ETL & data pipelines · data warehousing concepts
 
 ### 📌 Currently Learning / Next Up
 
-- [ ] Ship a fine-tuning + evaluation pipeline for a transformer model
-- [ ] Contribute a PR to an open-source PyTorch/TensorFlow-ecosystem repo
-- [ ] Reproduce a recent DL paper end-to-end
-- [ ] Deploy a trained model behind a simple inference API
+- [ ] Fine-tune a transformer model on custom datasets and benchmark it against the base models
+- [ ] Contribute in open-source PyTorch and TensorFlow-ecosystems
+- [ ] Reproduce recent deep learning papers from scratch, improvise them and publish the writeups
 
 ---
 
 <div align="center">
 
-📫 **Reach out** — [LinkedIn](https://linkedin.com/in/sarthak-verma-6002001b4) · [Instagram](https://instagram.com/sarthak_162) · [LeetCode](https://leetcode.com/u/Sarthakvzz/) · [Email](mailto:sarthak16.verma2005@gmail.com)
-
-<img src="https://visitcount.itsvg.in/api?id=sarthakv162&icon=0&color=6" alt="Profile views"/>
+📫 **Reach out**:- [LinkedIn](https://linkedin.com/in/sarthak-verma-6002001b4) · [Instagram](https://instagram.com/sarthak_162) · [Email](mailto:sarthak16.verma2005@gmail.com)
 
 </div>
